@@ -27,7 +27,7 @@
 		ㅤㅤㅤ내용
 	</details>
 	<details>
-		<summary><b>ㅤ25/01/15/수:</b></summary>	
+		<summary><b>ㅤ25/01/15/수: ⭐⭐ 대상의 추상화: 제네릭 타입</b></summary>	
 		ㅤㅤㅤ내용
 	</details>
 	<details>
