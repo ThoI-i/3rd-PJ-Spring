@@ -4,7 +4,7 @@
 HTML + CSS + Javascript[FE] + Spring Boot + MyBatis[BE] + MariaDB[DB]<br>
 
 ## 🗓️ 프로젝트 기간: 25/01/06 ~ 25/01/24
-
+![Timetable](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%9D%BC%EC%A0%95.png)
 ## 👤 프로젝트 맴버
 
 [![GitHub Badge](https://img.shields.io/badge/tony24123-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/tony24123)
@@ -33,17 +33,28 @@ HTML + CSS + Javascript[FE] + Spring Boot + MyBatis[BE] + MariaDB[DB]<br>
 ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D6?logo=windows&logoColor=white)
 
 ## 🎬 시연 영상
-[![GitHub Badge](https://img.shields.io/badge/tony24123-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/tony24123) <br>
+[![GitHub Badge](https://img.shields.io/badge/tony24123-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/tony24123) <br><br>
+<b>🔹회원가입</b><br>
+![회원가입](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81/tony24123/%ED%8E%B8%EC%A7%91/gif/tony24123_1_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%2C%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%2C%20%ED%86%A0%ED%81%B0%20%EB%B0%9C%ED%96%89.gif)<br><br>
+<b>🔹게임 로그 DB 연동</b><br>
+![게임 로그 DB 연동](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81/tony24123/%ED%8E%B8%EC%A7%91/gif/tony24123_2_%20%EA%B2%8C%EC%9E%84%20%EA%B2%B0%EA%B3%BC%20DB%20%EC%97%B0%EB%8F%99.gif)
+___
+[![GitHub Badge](https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i) <br><br>
 🔹
 ___
-[![GitHub Badge](https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i) <br>
-🔹
+[![GitHub Badge](https://img.shields.io/badge/chchch928-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/chchch928) <br><br>
+<b>🔹회원가입 검증</b><br>
+![회원가입 검증](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81/chchch928/%ED%8E%B8%EC%A7%91/gif/chchch928_1_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%8B%A4%ED%8C%A8(%ED%8E%B8%EC%A7%91).gif)<br><br>
+<b>🔹로그인 검증</b><br>
+![로그인 검증](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81/chchch928/%ED%8E%B8%EC%A7%91/gif/chchch928_2_%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%8B%A4%ED%8C%A8(%ED%8E%B8%EC%A7%91).gif)<br><br>
+<b>🔹회원가입 / 로그인</b><br>
+![회원가입 / 로그인](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81/chchch928/%ED%8E%B8%EC%A7%91/gif/chchch928_3_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%B1%EA%B3%B5(%ED%8E%B8%EC%A7%91).gif)<br>
 ___
-[![GitHub Badge](https://img.shields.io/badge/chchch928-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/chchch928) <br>
-🔹
-___
-[![GitHub Badge](https://img.shields.io/badge/Mabbakk-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/Mabbakk)<br>
-🔹
+[![GitHub Badge](https://img.shields.io/badge/Mabbakk-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/Mabbakk)<br><br>
+<b>🔹페이지 소개</b><br>
+![페이지 소개](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81/mabbakk/%ED%8E%B8%EC%A7%91/gif/mabbakk_1.%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%86%8C%EA%B0%9C.gif)<br><br>
+<b>🔹회원가입</b><br>
+![회원가입](https://github.com/3rd-PJ-Spring/Checkpoint/blob/main/img/ThoI-i/250123(%EB%AA%A9)/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81/mabbakk/%ED%8E%B8%EC%A7%91/gif/mabbakk_2.%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)
 ___
 
 
@@ -106,8 +117,7 @@ ___
 
 [![GitHub Badge](https://img.shields.io/badge/tony24123-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/tony24123) <br>
 🔹백엔드로 넘어와서 개념이 정리되지 않은 상태로 다음 단계를 진행하다보니 어느 순간 궁금한 것이 무엇이고 어디부터 흐름을 잡아나아가야 할지 막막했다.<br>
-이번 프로젝트에 무엇을 할 수 있을지 자신이 없었다.
-　내가 부족한 부분을 채워나가고 해보고 싶은 작업을 편히 진행할 수 있게 시간을 마련해 준 팀원들에게 감사하다.
+이번 프로젝트에 무엇을 할 수 있을지 자신이 없었다. <br>내가 부족한 부분을 채워나가고 해보고 싶은 작업을 편히 진행할 수 있게 시간을 마련해 준 팀원들에게 감사하다.
 ___
 [![GitHub Badge](https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i) <br>
 🔹
@@ -116,8 +126,10 @@ ___
 [![GitHub Badge](https://img.shields.io/badge/chchch928-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/chchch928) <br>
 🔹풀스택 개발의 복잡함을 체감<br>
 혼자서 모든 부분을 처리해야 하는 어려움을 느꼈고, 팀으로 작업했다면 더 효율적으로 프로젝트를 진행할 수 있었을 것 같음<br>
+
 🔹공부와 프로젝트 병행의 중요성을 느낌<br>
 　프로젝트 진행중 발생한 문제를 해결하면서 실력을 쌓았고 단순히 결과물을 만드는 것이 아니라 공부과정을 통해 성장했다고 생각함<br>
+
 🔹앞으로의 목표<br>
 　이번 프로젝트는 모든 부분을 스스로 만들어 나가는 것이 쉽지않아 기존에 공부한것을 많이 참조해서 만들었기 때문에 다음 프로젝트 때에는 더 체계적으로 좋은 결과물을 만들고 싶음<br>
 ___
